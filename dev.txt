@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 first development code for commit
+=======
+second commit pratice
+>>>>>>> 5b6f4ae4ed1df9bc4c3df5ab330ddbc92d427966
