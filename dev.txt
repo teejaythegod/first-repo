@@ -1,1 +1,12 @@
 second commit pratice
+    1  git status
+    2  git add .
+    3  git commit -m"updated dev.txt"
+    4  git push
+    5  git push --set-upstream origin newfeature
+    6  git push --set-upstream origin newfeature
+    7  git checkout dev
+    8  git merge newfeature
+    9  git push
+   10  history 20
+   11  history>>dev.txt
